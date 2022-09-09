@@ -1,8 +1,12 @@
-
+import Router from './router/index.routes';
+import Header from './Components/Partials/Header';
 
 function App() {
   return (
-    <>APP</>
+    <>
+      <Header/>
+      <Router/>
+    </>
   );
 }
 
