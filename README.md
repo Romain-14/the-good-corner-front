@@ -11,7 +11,14 @@ ne pas oublié d'installer les autres librairies: router, redux
 - routes et composant Admin
 - le reste :)
 ---
-### Structure
+## Structure
 
 - à minima:
     ![structure](./structure_front.png)
+
+
+## Algo
+
+### Gestion user
+
+- à la connexion d'un user

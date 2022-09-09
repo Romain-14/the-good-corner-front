@@ -1,9 +1,7 @@
-import React from 'react'
+import Form from "./Form";
 
-function signup() {
-  return (
-    <div>signup</div>
-  )
+function Signup() {
+    return <Form formType={"signup"} />;
 }
 
-export default signup
+export default Signup;
